@@ -6,7 +6,7 @@ This adapter allows simple interfacing between microcontrollers (e.g., ESP8266, 
 - Communication: I2C
 - Supported OLED sizes: 0.49", 0.91", 0.96", 1.3", 1.5"
 - Dimensions: 28.30 × 25.60 mm
-- Power: 5V output adapter (regulated 3.3V also available)
+- Power: 5V output adapter
 - Pin header: 1×08 P2.54 mm vertical
 - Pinout:
   - **SCL** — D1 / GPIO5
