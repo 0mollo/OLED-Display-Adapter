@@ -1,5 +1,5 @@
 # OLED-Display-Adapter
-![image alt](https://github.com/0mollo/OLED-Display-Adapter/blob/main/OLED_Display_Piggyback_Top%20%20View.png?raw=true) ![image alt](https://github.com/0mollo/OLED-Display-Adapter/blob/main/OLED_Display_Piggyback_Top_Bottom%20view.png?raw=true)
+|![image alt](https://github.com/0mollo/OLED-Display-Adapter/blob/main/OLED_Display_Piggyback_Top%20%20View.png?raw=true)|    |![image alt](https://github.com/0mollo/OLED-Display-Adapter/blob/main/OLED_Display_Piggyback_Top_Bottom%20view.png?raw=true)|
 
 
 A compact I2C OLED display adapter board compatible with multiple OLED screen sizes.
