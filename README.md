@@ -1,5 +1,5 @@
 # OLED-Display-Adapter
-![image alt]
+![image alt](https://github.com/0mollo/OLED-Display-Adapter/blob/main/OLED_Display_Piggyback_Top%20%20View.png?raw=true)
 A compact I2C OLED display adapter board compatible with multiple OLED screen sizes.
 This adapter allows simple interfacing between microcontrollers (e.g., ESP8266, ESP32, Arduino) and popular SSD1306-based OLEDs.
 
