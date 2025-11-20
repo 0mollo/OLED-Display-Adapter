@@ -20,8 +20,8 @@ Located in `hardware/schematics/OLED_Display_Piggyback.pdf`
 
 ## Arduino Libraries
 Ensure you install:
-- Adafruit SSD1306
-- Adafruit GFX Library
+- [Adafruit SSD1306](https://docs.arduino.cc/libraries/adafruit-ssd1306/)
+- [Adafruit GFX Library](https://docs.arduino.cc/libraries/adafruit-gfx-library/)
 
 ## Example
 See `examples/arduino/oled_i2c_example.ino` for initialization and display test.
