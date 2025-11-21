@@ -16,7 +16,7 @@ This adapter allows simple interfacing between microcontrollers (e.g., ESP8266, 
   - **SDA** — D2 / GPIO2
 
 ## Schematic
-Located in `hardware/schematics/OLED_Display_Piggyback.pdf`
+See [Piggyback Schematic](https://github.com/0mollo/OLED-Display-Adapter/blob/main/OLED_Display_Piggyback.pdf)
 
 ## Arduino Libraries
 Ensure you install:
