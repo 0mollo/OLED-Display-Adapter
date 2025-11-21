@@ -24,7 +24,7 @@ Ensure you install:
 - [Adafruit GFX Library](https://docs.arduino.cc/libraries/adafruit-gfx-library/)
 
 ## Example
-See `examples/arduino/oled_i2c_example.ino` for initialization and display test.
+See [arduino oled i2c example.ino](https://github.com/0mollo/OLED-Display-Adapter/blob/main/oled_i2c_example.ino) for initialization and display test.
 
 ## Datasheet
 OLED display module datasheet is included under [datasheets](https://www.mouser.com/datasheet/2/1398/Soldered_333099-3395096.pdf?srsltid=AfmBOoq22I3vxOrw6XJxbx33Z99EJbCjFhMkmblpHEa-TpoGX83k17_O)
